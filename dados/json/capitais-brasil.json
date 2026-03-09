@@ -1,0 +1,192 @@
+[
+  {
+    "capital": "Rio Branco",
+    "uf": "AC",
+    "latitude": -9.97,
+    "longitude": -67.81,
+    "populacao_estimada_2024": 379374
+  },
+  {
+    "capital": "Maceió",
+    "uf": "AL",
+    "latitude": -9.65,
+    "longitude": -35.74,
+    "populacao_estimada_2024": 977937
+  },
+  {
+    "capital": "Macapá",
+    "uf": "AP",
+    "latitude": 0.03,
+    "longitude": -51.06,
+    "populacao_estimada_2024": 565805
+  },
+  {
+    "capital": "Manaus",
+    "uf": "AM",
+    "latitude": -3.10,
+    "longitude": -60.02,
+    "populacao_estimada_2024": 2279686
+  },
+  {
+    "capital": "Salvador",
+    "uf": "BA",
+    "latitude": -12.97,
+    "longitude": -38.51,
+    "populacao_estimada_2024": 2568928
+  },
+  {
+    "capital": "Fortaleza",
+    "uf": "CE",
+    "latitude": -3.73,
+    "longitude": -38.52,
+    "populacao_estimada_2024": 2574412
+  },
+  {
+    "capital": "Brasília",
+    "uf": "DF",
+    "latitude": -15.79,
+    "longitude": -47.88,
+    "populacao_estimada_2024": 2982818
+  },
+  {
+    "capital": "Vitória",
+    "uf": "ES",
+    "latitude": -20.31,
+    "longitude": -40.33,
+    "populacao_estimada_2024": 352937
+  },
+  {
+    "capital": "Goiânia",
+    "uf": "GO",
+    "latitude": -16.68,
+    "longitude": -49.25,
+    "populacao_estimada_2024": 1494599
+  },
+  {
+    "capital": "São Luís",
+    "uf": "MA",
+    "latitude": -2.53,
+    "longitude": -44.30,
+    "populacao_estimada_2024": 1056503
+  },
+  {
+    "capital": "Cuiabá",
+    "uf": "MT",
+    "latitude": -15.59,
+    "longitude": -56.09,
+    "populacao_estimada_2024": 673966
+  },
+  {
+    "capital": "Campo Grande",
+    "uf": "MS",
+    "latitude": -20.46,
+    "longitude": -54.61,
+    "populacao_estimada_2024": 923910
+  },
+  {
+    "capital": "Belo Horizonte",
+    "uf": "MG",
+    "latitude": -19.91,
+    "longitude": -43.93,
+    "populacao_estimada_2024": 2416339
+  },
+  {
+    "capital": "Belém",
+    "uf": "PA",
+    "latitude": -1.45,
+    "longitude": -48.48,
+    "populacao_estimada_2024": 1391587
+  },
+  {
+    "capital": "João Pessoa",
+    "uf": "PB",
+    "latitude": -7.11,
+    "longitude": -34.86,
+    "populacao_estimada_2024": 863205
+  },
+  {
+    "capital": "Curitiba",
+    "uf": "PR",
+    "latitude": -25.42,
+    "longitude": -49.27,
+    "populacao_estimada_2024": 1829225
+  },
+  {
+    "capital": "Recife",
+    "uf": "PE",
+    "latitude": -8.05,
+    "longitude": -34.88,
+    "populacao_estimada_2024": 1587707
+  },
+  {
+    "capital": "Teresina",
+    "uf": "PI",
+    "latitude": -5.09,
+    "longitude": -42.80,
+    "populacao_estimada_2024": 878033
+  },
+  {
+    "capital": "Rio de Janeiro",
+    "uf": "RJ",
+    "latitude": -22.90,
+    "longitude": -43.17,
+    "populacao_estimada_2024": 6729894
+  },
+  {
+    "capital": "Natal",
+    "uf": "RN",
+    "latitude": -5.79,
+    "longitude": -35.21,
+    "populacao_estimada_2024": 769153
+  },
+  {
+    "capital": "Porto Alegre",
+    "uf": "RS",
+    "latitude": -30.03,
+    "longitude": -51.21,
+    "populacao_estimada_2024": 1422778
+  },
+  {
+    "capital": "Porto Velho",
+    "uf": "RO",
+    "latitude": -8.76,
+    "longitude": -63.90,
+    "populacao_estimada_2024": 483320
+  },
+  {
+    "capital": "Boa Vista",
+    "uf": "RR",
+    "latitude": 2.82,
+    "longitude": -60.67,
+    "populacao_estimada_2024": 451456
+  },
+  {
+    "capital": "Florianópolis",
+    "uf": "SC",
+    "latitude": -27.59,
+    "longitude": -48.54,
+    "populacao_estimada_2024": 558509
+  },
+  {
+    "capital": "São Paulo",
+    "uf": "SP",
+    "latitude": -23.55,
+    "longitude": -46.63,
+    "populacao_estimada_2024": 11895578
+  },
+  {
+    "capital": "Aracaju",
+    "uf": "SE",
+    "latitude": -10.91,
+    "longitude": -37.07,
+    "populacao_estimada_2024": 639352
+  },
+  {
+    "capital": "Palmas",
+    "uf": "TO",
+    "latitude": -10.18,
+    "longitude": -48.33,
+    "populacao_estimada_2024": 329168
+  }
+]
+
