@@ -10,3 +10,5 @@ Galeria de Jupyter Notebooks do curso:
 - [Sistemas de Referência de Coordenadas (CRS)](./sistemas-referencia-coordenadas.ipynb)
  
 - [Manipulação de Dados Vetoriais - Leitura de Arquivos ESRI Shapefile com a biblioteca Fiona](dados-vetoriais-fiona.ipynb)
+
+- [Introdução ao ipyleaflet para Mapas Interativos](ipyleaflet-e-mapas-interativos)
